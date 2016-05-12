@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BeGood</string>
+    <string name="btn_1">Вода 0,5 л</string>
+    <string name="btn_2">Вода 1 л</string>
+    <string name="btn_3">Кола 0,5 л</string>
+    <string name="btn_4">Кола 1 л</string>
+    <string name="btn_5">Сэндвич с курицей</string>
+    <string name="btn_6">Сэндвич с ветчиной</string>
+    <string name="btn_7">Сэндвич с тунцом</string>
+    <string name="btn_8">Сэндвич с красной рыбой</string>
+    <string name="btn_9">шашлык 1 ножка</string>
+    <string name="btn_10">шашлык 2 ножки</string>
+    <string name="btn_11">шашлык 3 ножки</string>
+    <string name="btn_12">плов</string>
+    <string name="btn_13">суп</string>
+    <string name="txt_text">Здесь будет значение</string>
+    <string name="next">следующий заказ</string>
+    <string name="tv_value">стоимость</string>
+    <string name="btn_clean">Очистить</string>
+</resources>
